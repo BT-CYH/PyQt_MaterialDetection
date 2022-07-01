@@ -1,0 +1,40 @@
+Sat May 14 14:45:52 2022 
+Image Path: ./temp/inclusion 0.88_1_0.jpg 
+Type of Defect: inclusion 
+Centroid Coordinates: 10.000000 , 10.000000 
+Perimeter: 15.000000 
+Area: 11.000000 
+
+
+Sat May 14 14:47:35 2022 
+Image Path: ./temp/inclusion 0.88_1_0.jpg 
+Type of Defect: inclusion 
+Centroid Coordinates: 10.000000 , 10.000000 
+Perimeter: 15.000000 
+Area: 11.000000 
+
+
+Sun May 22 12:53:00 2022 
+Image Path: ./temp/inclusion 0.88_1_0.jpg 
+Type of Defect: inclusion 
+Centroid Coordinates: 10.000000 , 10.000000 
+Perimeter: 15.000000 
+Area: 11.000000 
+
+
+Sun May 22 12:54:32 2022 
+Image Path: ./temp/inclusion 0.88_1_0.jpg 
+Type of Defect: inclusion 
+Centroid Coordinates: 10.000000 , 10.000000 
+Perimeter: 15.000000 
+Area: 11.000000 
+
+
+Sun May 22 14:41:56 2022 
+Image Path: ./temp/inclusion 0.88_1_0.jpg 
+Type of Defect: inclusion 
+Centroid Coordinates: 10.000000 , 10.000000 
+Perimeter: 15.000000 
+Area: 11.000000 
+
+
